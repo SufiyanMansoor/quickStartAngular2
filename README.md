@@ -1,2 +1,3 @@
 # quickStartangular2
-i get started with angular 2 in sample project 
+i get started with angular 2 in sample project..
+i update new sample apps in my github account... 
